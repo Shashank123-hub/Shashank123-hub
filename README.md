@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shashank Thakur. 
+- 👋 Hello, I’m Shashank 
 - 👀 I’m keenly interested in Machine Learning, Artificial Intelligence(AI) and Internet of Things(IOT). 
 - 💞️ Feel free to collaborate & connect on project ideas. 
 - 📫 You can reach me on my LinkedIN - www.linkedin.com/in/shashankthakur-3310
